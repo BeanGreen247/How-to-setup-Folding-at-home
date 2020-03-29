@@ -35,7 +35,7 @@ Install the built package
 ```
 sudo dpkg -i python-gnome2_42_all.deb
 ```
-After running the next command it will ask for a team number at some point so please use this team number 255553
+After running the next command it will ask for a team number at some point so please use this team number 0
 ```
 sudo dpkg -i --force-depends fahclient_7.5.1_amd64.deb
 ```
