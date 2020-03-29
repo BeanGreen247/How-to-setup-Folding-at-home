@@ -45,3 +45,6 @@ sudo update.rc.d FAHClient defaults
 sudo dpkg -i --force-depends fahcontrol_7.5.1-1_all.deb
 sudo dpkg -i --force-depends fahviewer_7.5.1_amd64.deb
 ```
+To see your progress go [here](https://client.foldingathome.org/).
+
+https://client.foldingathome.org/
