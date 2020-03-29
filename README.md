@@ -1,5 +1,7 @@
 # How-to-setup-Folding-at-home
-A guide on setting up FAH
+A guide on setting up FAH on Debian / Mint / Ubuntu
+
+Download the packages from here https://foldingathome.org/start-folding/
 
 Install the dependecies
 ```
