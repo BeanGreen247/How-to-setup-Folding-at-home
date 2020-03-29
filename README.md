@@ -48,3 +48,5 @@ sudo dpkg -i --force-depends fahviewer_7.5.1_amd64.deb
 To see your progress go [here](https://client.foldingathome.org/).
 
 https://client.foldingathome.org/
+
+OR use the installed FAHControl
